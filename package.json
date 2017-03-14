@@ -1,5 +1,5 @@
 {
-  "name": "Hissnake",
+  "name": "Snake",
   "version": "3.10.9",
   "description": "This is a snake game",
   "main": "index.js",
