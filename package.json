@@ -10,6 +10,6 @@
   "author": "Apoorv Anand",
   "license": "ISC",
   "scripts": {
-  "start": "node index.js"
+  "start": "snake.html"
  }
 }
